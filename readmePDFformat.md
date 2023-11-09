@@ -107,7 +107,7 @@ This is just to keep me honest! Presentation was done in ThingLink and hosted vi
   * [Queer History Walking Tours](https://sites.wp.odu.edu/tqhp/queer-walking-tour/)
   * [Contact Cathleen](https://www.odu.edu/directory/cathleen-rhodes)
 
-## My Game Design Class Spring 2024
+## VMASC Game Design Classes Spring 2024
 
 * Unity CRN Lookup: 31608: M&W 3-4:15pm
 * World Building CRN Lookup: 29702: T&R 10-11:15am
